@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
@@ -7,4 +8,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="button_background">#1A181B</color>  <!-- 按钮背景色 -->
+    <color name="button_stroke">#334C3461</color>    <!-- 边框颜色 -->
+    <color name="button_ripple">#66554087</color>    <!-- 点击涟漪效果 -->
+    <color name="button_disabled">#61C1BDBD</color>  <!-- 禁用状态 -->
+
 </resources>
